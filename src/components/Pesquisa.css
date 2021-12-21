@@ -1,0 +1,9 @@
+#myDiv{
+    position: relative;
+    top: -10px;
+    padding-left: 1rem;
+}
+
+#pesquisa-container{
+    position: absolute;
+}

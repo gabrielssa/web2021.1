@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App{
+  
+}
+
+header {
+  display: flex;
+  align-items: center;
+  border: 1px solid blue;
+}
+
+.jogo{
+  border: 1px solid red;
+}
+
+.game-img{
+  width: 200px;
+}
