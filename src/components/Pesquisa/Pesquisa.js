@@ -1,5 +1,5 @@
 import React from 'react';
-import ItemDaPesquisa from './ItemDaPesquisa/ItemDaPesquisa';
+import ItemDaPesquisa from '../ItemDaPesquisa/ItemDaPesquisa';
 import './Pesquisa.css'; 
 // import { useHistory, Link } from "react-router-dom";
 

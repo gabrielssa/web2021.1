@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Pesquisa from './components/Pesquisa';
+import Pesquisa from './components/Pesquisa/Pesquisa';
 import ItemDaPesquisa from './components/ItemDaPesquisa/ItemDaPesquisa'
 
 function App() {
